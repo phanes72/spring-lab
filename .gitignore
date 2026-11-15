@@ -1,0 +1,18 @@
+# Maven build output
+target/
+**/target/
+
+# Java compiled files
+*.class
+
+# Vim temporary files
+*.swp
+*.swo
+*~
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
